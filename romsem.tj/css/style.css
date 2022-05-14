@@ -1298,8 +1298,12 @@ body {
       width: 170px;
    }
 
+}
 
-
+@media (max-width:370px) {
+   .header .left .tel .telephone {
+      font-size: 9px;
+   }
 }
 
 
