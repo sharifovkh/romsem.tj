@@ -1091,6 +1091,11 @@ body {
    .footer .container .content {
       display: none;
    }
+   
+   .producta .card {
+      width: 47%;
+   }
+
 
 
    .footer {
